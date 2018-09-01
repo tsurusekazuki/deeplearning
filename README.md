@@ -1,0 +1,3 @@
+# deeplearning
+TensorFlowで学ぶDeepLearnning入門
+chapter1_2で学んだことをコードに表したもの
